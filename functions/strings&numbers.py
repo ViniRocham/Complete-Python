@@ -10,5 +10,5 @@
 #Float = (1.1, 25.3,...)
 
 
-#BOOLEN TYPE:
+#BOOLEAN TYPE:
 #Bool = (True or False)
